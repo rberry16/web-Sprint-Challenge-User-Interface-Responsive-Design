@@ -276,6 +276,40 @@ footer nav {
 }
 
 /*About Page Styles*/
+.about-section {
+    display: flex;
+    flex-direction: column;
+    margin: 5% 5%;
+    justify-content: space-around;
+    border-bottom: 2px solid #ff4b00;
+}
 
+.about-section img {
+    justify-content: center;
+    margin: 5% 0;
+}
 
+.about-section p{
+    margin-bottom: 2%;
+}
+
+.strategy-section {
+    display: flex;
+    flex-direction: row;
+    Margin: 5%;
+    justify-content: space-around;
+    border-bottom: 2px solid #ff4b00;
+}
+
+.strategy-section img {
+    justify-content: flex-start;
+    margin-bottom: 2%;
+    margin-right: 10%;
+}
+
+.strategy-section h2 {
+    margin-right: 20%;
+}
+
+.strategy-section 
 /*Responsive Styles*/
